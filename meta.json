@@ -55,13 +55,13 @@
     "rpc": [
       {
         "address": "https://rpc.testnet-skyzennet.mcdevz.dev/",
-        "provider": "mcdevz"
+        "provider": "skyzennet"
       }
     ],
     "rest": [
       {
         "address": "https://api.testnet-skyzennet.mcdevz.dev/",
-        "provider": "mcdevz"
+        "provider": "skyzennet"
       }
     ]
   },
