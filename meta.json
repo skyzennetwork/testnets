@@ -34,7 +34,7 @@
     "persistent_peers": [
       {
         "id": "86a45af7eaa0a8ecf14ca438bbcbfe591dd7b6a5",
-        "address": "peers.testnet-skyzennet.mcdevz.dev:443"
+        "address": "peers.testnet-skyzennet.mcdevz.dev:26656"
       }
     ]
   },
