@@ -4,9 +4,9 @@
 
 | Service | Address |
 | :--- | :--- |
-| **RPC** | `https://rpc.testnet-skyzennet.mcdevz.dev/` |
-| **REST/API** | `https://api.testnet-skyzennet.mcdevz.dev/` |
-| **Explorer** | `https://explorer.skyzennet.mcdevz.dev` |
+| **RPC** | `https://rpc.testnet.skyzennet.xyz/` |
+| **REST/API** | `https://api.testnetskyzennet.xyz/` |
+| **Explorer** | `https://explorer.skyzennet.xyz` |
 | **Faucet** | `https://faucet.testnet-skyzennet.mcdevz.dev` |
 
 ## Reporting Issues
