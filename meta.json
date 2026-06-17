@@ -35,6 +35,10 @@
       {
         "id": "86a45af7eaa0a8ecf14ca438bbcbfe591dd7b6a5",
         "address": "peers.testnet.skyzennet.xyz:26656"
+      },
+      {
+       "id": "ea924f26671d3f626ee464b7e9bbc006f32db317",
+       "address": "peers.testnet.skyzennet.xyz:26659"
       }
     ]
   },
